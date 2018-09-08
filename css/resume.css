@@ -72,7 +72,7 @@ p.lead {
 }
 
 .social-icons a:hover {
-  background-color: #BD5D38;
+  background-color: #1A73E8;
 }
 
 .dev-icons {
@@ -80,7 +80,7 @@ p.lead {
 }
 
 .dev-icons .list-inline-item i:hover {
-  color: #BD5D38;
+  color: #1A73E8;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -176,28 +176,28 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #BD5D38 !important;
+  background-color: #1A73E8 !important;
 }
 
 .text-primary {
-  color: #BD5D38 !important;
+  color: #1A73E8 !important;
 }
 
 a {
-  color: #BD5D38;
+  color: #1A73E8;
 }
 
 a:hover, a:focus, a:active {
   color: #824027;
 }
 
-img {
+.img-thumbnail {
     border: 1px solid #ddd; /* Gray border */
     border-radius: 4px;  /* Rounded border */
-    width: 500px; /* Set a small width */
+    width: 300px; /* Set a small width */
 }
 
-img:hover {
+.img:hover {
     box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
 }
 

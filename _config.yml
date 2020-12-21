@@ -8,8 +8,8 @@
 url: http://127.0.0.1:4000/
 
 # for header and meta tags
-title: Akshay Jain ⚡
-description: Akshay Jain
+title: Akshay Jain
+description: Akshay Jain USC Amazon
 
 # set external to true if linking outside your website
 # for internal, make sure to include preceding slash
@@ -19,9 +19,11 @@ nav-links:
     external: false
   - name: Projects
     url: /projects
+  - name: Github
+    url: https://github.com/pixelexel
+    external: true
   - name: Blog
     url: /blog
-    external: false
     external: false
   - name: Books and more
     url: /books&more

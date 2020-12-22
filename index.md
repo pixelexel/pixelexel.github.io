@@ -1,7 +1,7 @@
 ---
 ---
 
-## 🤷 About Me
+## 🤷🏽‍♂️ About Me
 
 I'm studying Computer Science at the University of Southern California. My career interests lie in web development, check out some of my projects [here](projects)
 

@@ -20,15 +20,19 @@ nav-links:
     external: false
   - name: Projects
     url: /projects
-    external: true
+    external: false
   - name: Blog
     url: /blog
     external: false
   - name: Books and more
     url: /books&more
     external: false
+  - name: Resume
+    url: /resume
+    external: false
   - name: 🔗 Github
     url: https://github.com/pixelexel
+    external: true
 
 # for the homepage image + big text next to it
 # greeting_image: /assets/me.jpg

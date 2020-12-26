@@ -28,7 +28,7 @@ nav-links:
     url: /books&more
     external: false
   - name: Resume
-    url: /resume
+    url: /resume.pdf
     external: false
   - name: 🔗 Github
     url: https://github.com/pixelexel

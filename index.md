@@ -13,7 +13,7 @@ Last summer, I interned at Amazon Web Services and built a web service for a lea
 
 During my undergrad, I attempted AI + medical research at BARC, Mumbai in analyzing uncertainty in medical vital sign measurements using fuzzy TOPSIS.
 
-In 2018, my team won the innovation award at Smart India Hackathon for building a student analytics platform to identify underpriveledged children in need of a scholarship. This [post](https://medium.com/@pixelexel/field-matching-mapping-django-model-attributes-to-a-custom-pandas-data-frame-or-csv-excel-sheet-5ee89b698faf) outlines some of the challenges I faced while helping build the Django backend.
+In 2018, my team won the innovation award at Smart India Hackathon for building a student analytics platform to identify underprivileged children in need of a scholarship. This [post](https://medium.com/@pixelexel/field-matching-mapping-django-model-attributes-to-a-custom-pandas-data-frame-or-csv-excel-sheet-5ee89b698faf) outlines some of the challenges I faced while helping build the Django backend.
 
 ## 👋🏻 Say hi
 

@@ -9,7 +9,7 @@ I love hiking, running and watching the waves on an empty beach. 2020 made me su
 
 ## 🦕 What I've done before
 
-Last summer, I interned at Amazon Web Services and built a web service for a learning platform used at major AWS conferences. The tech stack I used included React, Go and AWS services (Lambda, DynamoDB, Cloudformation, API gateway and more)
+Last summer, I interned at Amazon Web Services and built a web service for a learning platform used at major AWS conferences. The tech stack I used included React, Go and AWS services (API gateway, Lambda, DynamoDB, Cloudformation and more)
 
 During my undergrad, I attempted AI + medical research at BARC, Mumbai in analyzing uncertainty in medical vital sign measurements using fuzzy TOPSIS.
 

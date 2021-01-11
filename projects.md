@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: web dev
 ---
 
 ## Stockkr

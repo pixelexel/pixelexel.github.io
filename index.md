@@ -19,6 +19,8 @@ In 2018, my team won the innovation award at Smart India Hackathon for building 
 
 Feel free to reach out on [e-mail](mailto:akshaydi@usc.edu), [github](https://github.com/pixelexel), [twitter](https://twitter.com/pixelexel) or [linkedIn](https://www.linkedin.com/in/akshayjp/)
 
-## 📠 Fun facts
+<footer>
 
-- This site is based on a Jekyll theme built by katmh, check it out on [github!](https://github.com/katmh/point-theme)
+This site is based on a Jekyll theme built by katmh <a href="https://github.com/katmh/point-theme">(github)</a>
+
+</footer>

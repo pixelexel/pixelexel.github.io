@@ -2,6 +2,8 @@
 title: Mapping external data to Django model attributes
 ---
 
+![Student Data Form](../assets/form.png)
+
 This post shows how to map custom pandas data frame or CSV/Excel columns to Django model attributes.
 
 This is a very specific problem that I faced as part of a group project for a student analytics platform. I couldn’t find any direct resources to handle this and so this is my attempt to help out anyone else with this same problem. It might be easier to go through the entire code at the bottom of the page to get a better sense of the problem.

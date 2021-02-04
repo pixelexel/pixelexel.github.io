@@ -29,3 +29,5 @@ title: Books & More
 [Waking Up by Sam Harris](https://app.wakingup.com/)
 
 [Nathaniel Drew on Youtube](https://www.youtube.com/channel/UCrdWRLq10OHuy7HmSckV3Vg)
+
+[Guide for a Better Life - Reddit](https://www.reddit.com/r/productivity/comments/ftzxit/my_guide_for_a_better_life/)

@@ -17,7 +17,7 @@ In 2018, my team won the innovation award at Smart India Hackathon for building 
 
 ## Say hi
 
-Feel free to reach out on [e-mail](mailto:akshaydi@usc.edu), [github](https://github.com/pixelexel), [twitter](https://twitter.com/pixelexel) or [linkedIn](https://www.linkedin.com/in/akshayjp/)
+Feel free to reach out on [e-mail](mailto:akshaydi@usc.edu), [github](https://github.com/pixelexel), [twitter](https://twitter.com/pixelexel) or [linkedIn](https://www.linkedin.com/in/akshayjain16/)
 
 ## Me 👇
 
